@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.version     = Hydrate::VERSION.dup
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ["GPL v3"]
-  s.summary     = "A flexible core solution for a SaaS platform that uses Stripe with Rails."
+  s.summary     = "A core solution for SaaS platforms that uses Devise, Stripe and Mongoid."
   s.email       = "admin@cacheventures.com"
   s.homepage    = "https://github.com/cacheventures/hydrate"
-  s.description = "A flexible core solution for a SaaS platform that uses Stripe with Rails."
+  s.description = "A core solution for SaaS platforms that uses Devise, Stripe and Mongoid."
   s.authors     = ['Jarrett Lusso', 'Daniel Arnold']
 
   s.rubyforge_project = "hydrate"
