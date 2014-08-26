@@ -1,2 +1,2 @@
-hydrate
+hydrate [![Build Status](https://travis-ci.org/cacheventures/hydrate.svg?branch=master)](https://travis-ci.org/cacheventures/hydrate) [![Code Climate](https://codeclimate.com/github/cacheventures/hydrate/badges/gpa.svg)](https://codeclimate.com/github/cacheventures/hydrate) [![Test Coverage](https://codeclimate.com/github/cacheventures/hydrate/badges/coverage.svg)](https://codeclimate.com/github/cacheventures/hydrate)
 =======
